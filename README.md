@@ -95,7 +95,7 @@ However, no system can be guaranteed 100% secure, and you use the App at your ow
 
 We may update this Privacy Policy from time to time.
 The most current version will always be available at:
-https://your-github-username.github.io/levelup-privacy-policy
+https://myhabitsinc-beep.github.io/levelup-privacy-policy/
 
 We encourage you to review it periodically.
 
