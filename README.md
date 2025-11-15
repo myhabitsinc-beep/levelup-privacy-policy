@@ -5,101 +5,92 @@ Developer: Independent Developer
 Contact: myhabitsinc@gmail.com
 
 1. Introduction
-
 LevelUpRPG (“the App”, “we”, “our”, “us”) is a fitness-tracking and gamification app designed to help users stay motivated through RPG-style leveling, badges, and quests.
-
-We respect your privacy and are committed to protecting your personal information.
-This Privacy Policy explains how we collect, use, and protect data when you use the App.
+We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and protect data when you use the App.
+By using LevelUpRPG, you agree to the collection and use of information in accordance with this policy.
 
 2. Information We Collect
+LevelUpRPG does not require you to create an account or provide personally identifying information (such as your real name, email address, or phone number) to function. However, the following data may be collected or processed either locally on your device or through third-party services.
 
-LevelUpRPG does not require an account or any personally identifying information to function.
-However, the following data may be collected automatically or through third-party services:
+a) App Data (stored locally on your device)
+The App stores gameplay and preference data locally on your device, including:
+XP progress and level
+Class selection and stats
+Streaks and goals
+Basic preferences (such as name/nickname, weight entry, avatar choice)
+This data is stored using Android’s SharedPreferences and is not sent to our servers. We do not have direct access to this information.
+If you uninstall the App or clear its data, this local data will be deleted from your device.
 
-a) App Data (stored locally)
-
-Your XP progress, stats, streaks, goals, and preferences are stored only on your device using Android’s SharedPreferences.
-
-We do not have access to this information and it is never transmitted to our servers.
-
-b) Analytics
-
-We may use Google Analytics for Firebase or similar tools to understand general app usage (e.g., feature popularity, crash reports).
-
-This data is anonymous and helps improve app stability and experience.
-
-c) Advertising
-
-LevelUpRPG uses Google AdMob to show ads.
-
-AdMob may collect device identifiers and usage data to provide and personalize ads, in accordance with Google’s Privacy Policy:
+b) Advertising
+LevelUpRPG uses Google AdMob to show ads within the App.
+AdMob may collect certain device and usage information to provide, maintain, and personalize ads, in accordance with Google’s policies. This may include:
+Device identifiers (such as Advertising ID)
+Approximate location (if available)
+Information about how you interact with ads
+Where required by law (for example, in the EEA/UK/Switzerland), we use Google’s User Messaging Platform (UMP) to collect your consent for personalized or non-personalized ads. You can review or update your ad consent choices via the privacy/ads options in the App where available.
+For more information, please review Google’s Privacy Policy:
 https://policies.google.com/privacy
 
-d) In-App Purchases
-
+c) In-App Purchases (LevelUp Pro)
 If you subscribe to LevelUp Pro, payments are handled securely through Google Play Billing.
+We do not receive or store your credit card or full payment details.
+Transaction records and payment information are managed by Google and are subject to their own Terms and Privacy Policy.
+You can manage or cancel your subscription directly through the Google Play Store.
 
-We do not receive or store any credit card or payment information.
+d) Notifications
 
-Transaction records are managed by Google and subject to their Privacy Policy.
+The App may schedule local notifications on your device (for example, workout reminders or streak-related notifications).
+These notifications:
+Are created and managed on your device
+Do not involve our own servers
+Do not transmit your personal data to us
+You can control notification settings through your device’s system settings and/or in-app settings (where available).
 
-e) Notifications
-
-The App may schedule local notifications (reminders) on your device.
-
-These notifications do not involve any server or third-party data exchange.
+e) Device and Diagnostic Information (via Google Services)
+We do not currently integrate separate analytics SDKs such as Firebase Analytics inside the App.
+However, as with most Android apps, Google Play and related Google services may collect aggregated diagnostic and performance data (for example, crashes, ANRs, or installation statistics) to help monitor app quality and stability. This information is processed under Google’s own policies and is generally provided to developers in aggregated or anonymized form.
 
 3. How We Use Information
-
-We use the data described above solely to:
-
-Maintain your in-app progress and features;
-
-Improve app performance and stability;
-
-Display relevant advertising;
-
-Process and verify in-app purchases.
-
-We do not sell, rent, or share your personal data with any third parties beyond the services listed here.
+We use the information described above solely to:
+Maintain your in-app progress and core features
+Show ads and manage ad preferences (via AdMob and UMP)
+Process and verify in-app purchases (via Google Play Billing)
+Improve app performance and stability (based on aggregated diagnostics from Google)
+We do not sell, rent, or trade your personal data to third parties.
 
 4. Data Retention and Control
-
-All gameplay data is stored locally on your device and can be cleared by uninstalling the App.
-Analytics and advertising data are retained according to Google’s standard policies.
-
-If you reinstall the App, your progress will not automatically restore unless you back up your device manually.
+Local app data (XP, stats, streaks, preferences) is stored on your device and remains there until you:
+Reset your data from within the App, or
+Uninstall the App or clear its data through your device settings.
+Advertising and diagnostic data are retained according to Google’s standard policies and cannot be directly accessed or deleted by us on an individual-user basis.
+If you reinstall the App, your previous progress will not automatically restore unless it was preserved by a full device backup service.
 
 5. Children’s Privacy
-
 LevelUpRPG is intended for users aged 13 and older.
-We do not knowingly collect or store personal information from children under 13.
-If you believe your child has provided information in the App, please contact us for assistance.
+We do not knowingly collect or store personal information from children under 13. If you believe that a child under 13 has provided information through the App, please contact us at myhabitsinc@gmail.com
+, and we will work with you and the relevant platforms to address the issue.
 
 6. Third-Party Services
-
-The App integrates the following services, each governed by its own privacy policy:
-
-Google AdMob: https://policies.google.com/privacy
-
-Google Play Billing: https://play.google.com/about/play-terms/
-
-Firebase Analytics / Crashlytics (if enabled): https://firebase.google.com/support/privacy
+The App integrates the following third-party services, each governed by its own terms and privacy policy:
+Google AdMob (advertising)
+https://policies.google.com/privacy
+Google Play Billing (in-app purchases)
+https://play.google.com/about/play-terms/
+Google Play Services / Play Console (aggregated diagnostic data such as crash reports and ANRs)
+https://policies.google.com/privacy
+We recommend that you review these third-party policies to understand how they handle your data.
 
 7. Security
-
-We use reasonable technical and organizational measures to safeguard your data.
-However, no system can be guaranteed 100% secure, and you use the App at your own risk.
+We use reasonable technical and organizational measures to safeguard your data on your device and within the App’s logic. However, no method of electronic storage or transmission is 100% secure.
+You use the App at your own risk and should keep your device secure (for example, using a passcode or biometric lock) to protect your data.
 
 8. Changes to This Policy
-
-We may update this Privacy Policy from time to time.
+We may update this Privacy Policy from time to time to reflect changes in the App, legal requirements, or third-party services.
 The most current version will always be available at:
 https://myhabitsinc-beep.github.io/levelup-privacy-policy/
-
-We encourage you to review it periodically.
+We encourage you to review this page periodically for any updates. Changes become effective when they are posted here, with the “Effective Date” updated as appropriate.
 
 9. Contact Us
-
-If you have any questions or concerns about this Privacy Policy, please contact:
-📧myhabitsinc@gmail.com
+If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please contact:
+Email: myhabitsinc@gmail.com
+We will do our best to respond in a reasonable timeframe.
